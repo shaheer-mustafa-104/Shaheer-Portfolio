@@ -1,0 +1,76 @@
+
+.about-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 110px 24px;
+  border-top: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.about-heading {
+  margin-bottom: 55px;
+}
+
+.section-label {
+  color: #a78bfa;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.about-heading h2 {
+  margin-top: 18px;
+  font-family: "Playfair Display", serif;
+  font-size: clamp(36px, 5vw, 58px);
+  font-weight: 500;
+}
+
+.about-heading h2 span {
+  color: #a78bfa;
+}
+
+.about-content {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 80px;
+}
+
+.about-text p {
+  color: #a1a1aa;
+  font-size: 16px;
+  line-height: 1.9;
+  margin-bottom: 20px;
+  max-width: 650px;
+}
+
+.about-details {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.about-details div {
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.about-details span {
+  color: #a1a1aa;
+  font-size: 13px;
+}
+
+.about-details h3 {
+  margin-top: 8px;
+  font-size: 17px;
+  font-weight: 500;
+  color: #f4f4f5;
+}
+
+@media (max-width: 700px) {
+  .about-section {
+    padding: 75px 20px;
+  }
+
+  .about-content {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+}
