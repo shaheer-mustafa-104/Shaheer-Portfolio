@@ -1,6 +1,7 @@
 import { ArrowUpRight } from "lucide-react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import "./Hero.css";
+import MyPicture from "../assets/shaheer.jpeg";
 
 function Hero() {
   return (
@@ -48,7 +49,9 @@ function Hero() {
       <div className="hero-image-area">
         <div className="portrait-frame">
           <div className="portrait-placeholder">
-            <span>SM</span>
+            <img src={MyPicture}
+              className="my-picture"
+            />
           </div>
 
           <div className="portrait-label">

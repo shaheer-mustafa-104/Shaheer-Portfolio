@@ -24,13 +24,13 @@ function Education() {
 
           <div className="timeline-content">
             <span className="timeline-type">EDUCATION</span>
-            <h3>Bachelor of Engineering in Software Engineering</h3>
-            <h4>University Education</h4>
+            <h3>Bachelor of Science in Information Technology</h3>
+            <h4>Sindh Univesity - Jamshoro</h4>
             <p>
-              Developed a foundation in software engineering,
+              Developed a foundation in the feild of Information Technology,
               programming, databases, and modern computing concepts.
             </p>
-            <span className="timeline-date">Graduated — 2025</span>
+            <span className="timeline-date">Ungraduated— Batch_2k24</span>
           </div>
         </div>
 

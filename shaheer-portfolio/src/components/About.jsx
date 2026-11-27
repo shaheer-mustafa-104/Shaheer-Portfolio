@@ -12,7 +12,7 @@ function About() {
       <div className="about-content">
         <div className="about-text">
           <p>
-            I'm Shaheer Mustafa, a Software Engineering graduate
+            I'm Shaheer Mustafa, a BS Information Technology Student Ungraduate
             with a growing interest in Cloud Computing.
           </p>
 
@@ -28,7 +28,7 @@ function About() {
         <div className="about-details">
           <div>
             <span>Education</span>
-            <h3>B.E. Software Engineering</h3>
+            <h3>B.S. Information Technology</h3>
           </div>
 
           <div>
