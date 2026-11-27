@@ -21,7 +21,7 @@ function Contact() {
         </p>
 
         <a
-          href="mailto:your-email@gmail.com"
+          href="mailto:shaheermustafa450@gmail.com"
           className="contact-email-button"
         >
           <Mail size={18} />
@@ -32,7 +32,7 @@ function Contact() {
 
       <div className="contact-socials">
         <a
-          href="https://github.com/your-username"
+          href="https://github.com/shaheer-mustafa-104"
           target="_blank"
           rel="noreferrer"
         >
@@ -42,7 +42,7 @@ function Contact() {
         </a>
 
         <a
-          href="https://linkedin.com/in/your-username"
+          href="https://www.linkedin.com/in/shaheer-mustafa-cc/"
           target="_blank"
           rel="noreferrer"
         >

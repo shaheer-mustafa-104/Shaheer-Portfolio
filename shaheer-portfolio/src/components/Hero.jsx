@@ -20,7 +20,7 @@ function Hero() {
         <h2>Building my journey into the cloud.</h2>
 
         <p className="hero-description">
-          I'm a Software Engineering graduate exploring cloud computing,
+          I'm a BS Information Technology Student Ungraduate exploring cloud computing,
           modern web technologies and scalable digital solutions.
           I enjoy learning, building and turning ideas into reality.
         </p>
@@ -36,11 +36,11 @@ function Hero() {
         </div>
 
         <div className="hero-socials">
-          <a href="https://github.com/" target="_blank" rel="noreferrer">
+          <a href="https://github.com/shaheer-mustafa-104" target="_blank" rel="noreferrer">
             <FaGithub size={18} />
           </a>
 
-          <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/shaheer-mustafa-cc/" target="_blank" rel="noreferrer">
             <FaLinkedin size={18} />
           </a>
         </div>

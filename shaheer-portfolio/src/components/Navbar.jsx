@@ -25,11 +25,11 @@ function Navbar() {
       </div>
 
       <div className="nav-actions">
-        <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <a href="https://github.com/shaheer-mustafa-104" target="_blank" rel="noreferrer">
           <FaGithub size={18} />
         </a>
 
-        <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/shaheer-mustafa-cc/" target="_blank" rel="noreferrer">
           <FaLinkedin size={18} />
         </a>
 

@@ -19,7 +19,7 @@ function Footer() {
 
         <div className="footer-socials">
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/shaheer-mustafa-104"
             target="_blank"
             rel="noreferrer"
             aria-label="GitHub"
@@ -28,7 +28,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://linkedin.com/in/your-username"
+            href="https://www.linkedin.com/in/shaheer-mustafa-cc/"
             target="_blank"
             rel="noreferrer"
             aria-label="LinkedIn"
